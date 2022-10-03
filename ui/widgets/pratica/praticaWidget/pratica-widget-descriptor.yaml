@@ -3,4 +3,4 @@ titles:
   en: Pratica Widget
   it: Pratica Widget
 group: free
-customUiPath: list-widget.ftl
+customUiPath: pratica-widget.ftl
