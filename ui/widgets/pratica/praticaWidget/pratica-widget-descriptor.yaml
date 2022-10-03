@@ -1,0 +1,6 @@
+code: pratica-widget
+titles:
+  en: Pratica Widget
+  it: Pratica Widget
+group: free
+customUiPath: list-widget.ftl

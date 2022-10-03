@@ -6,9 +6,6 @@ components:
     - plugins/istruttoria-plugin.yaml
 
   widgets:
-    - ui/widgets/pratica/tableWidget/pratica-table-widget-descriptor.yaml
-    - ui/widgets/pratica/detailsWidget/pratica-details-widget-descriptor.yaml
-    - ui/widgets/pratica/formWidget/pratica-form-widget-descriptor.yaml
     - ui/widgets/pratica/listWidget/list-widget-descriptor.yaml
     - ui/widgets/pratica/praticaWidget/pratica-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here

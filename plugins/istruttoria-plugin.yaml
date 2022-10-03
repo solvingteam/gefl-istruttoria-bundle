@@ -1,5 +1,5 @@
 descriptorVersion: v4
-image: solvingteam/istruttoria:0.0.1-SNAPSHOT
+image: solvingteam/gefl-istruttoria:1.0.0
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:

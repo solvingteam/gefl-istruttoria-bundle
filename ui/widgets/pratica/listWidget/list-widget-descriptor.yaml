@@ -1,0 +1,6 @@
+code: list-widget
+titles:
+  en: List Widget
+  it: Lista Widget
+group: free
+customUiPath: list-widget.ftl
