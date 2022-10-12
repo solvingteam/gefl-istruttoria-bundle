@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />istruttoria-bundle/static/js/1.01aaa8a7.chunk.js"></script>
-<script src="<@wp.resourceURL />istruttoria-bundle/static/js/main.42d57e8c.chunk.js"></script>
+<script src="<@wp.resourceURL />istruttoria-bundle/static/js/1.8be7f59b.chunk.js"></script>
+<script src="<@wp.resourceURL />istruttoria-bundle/static/js/main.2b7277a4.chunk.js"></script>
 <script src="<@wp.resourceURL />istruttoria-bundle/static/js/runtime~main.2caba86f.js"></script>
 <link href="<@wp.resourceURL />istruttoria-bundle/static/css/1.79a75640.chunk.css" rel="stylesheet">
 <link href="<@wp.resourceURL />istruttoria-bundle/static/css/main.cddc30ce.chunk.css" rel="stylesheet">
