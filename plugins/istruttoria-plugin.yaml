@@ -1,5 +1,5 @@
 descriptorVersion: v4
-image: solvingteam/gefl-istruttoria:1.0.65
+image: solvingteam/gefl-istruttoria:1.0.66
 dbms: postgresql
 ingressPath: /istruttoria
 healthCheckPath: /management/health
