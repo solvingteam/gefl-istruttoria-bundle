@@ -1,5 +1,5 @@
 descriptorVersion: v4
-image: solvingteam/gefl-istruttoria:1.0.66
+image: solvingteam/gefl-istruttoria:1.0.67
 dbms: postgresql
 ingressPath: /istruttoria
 healthCheckPath: /management/health
@@ -14,6 +14,8 @@ roles:
 environmentVariables:
   - name: LOGGING_LEVEL_ROOT
     value: DEBUG
+  - name: BASE_URL
+    value: http://34.78.126.51.nip.io/
 #  - name: ENV_2_NAME
 #    valueFrom:
 #      secretKeyRef:
